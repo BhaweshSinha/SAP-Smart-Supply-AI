@@ -1,1 +1,1 @@
-# SAP-Smart-Supply-A
+# SAP-Smart-Supply-AI
