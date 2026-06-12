@@ -1,1 +1,2 @@
-# SAP-Smart-Supply-GenAI-Automation
+# SAP SmartSupply GenAI Automation – Enterprise Supply Chain Intelligence Platform
+---
