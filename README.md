@@ -1,1 +1,1 @@
-# SAP-Smart-Supply-AI-Automation
+# SAP-Smart-Supply-GenAI-Automation
